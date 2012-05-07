@@ -3,7 +3,7 @@
 Plugin Name: Gravity Forms PDF Add On
 Plugin URI: http://blog.burningpony.com
 Description: Adds PDF rendering to the Gravity Forms Admin Page.
-Version: 0.0.1alpha1
+Version: 0.0.2
 Author: Russell Osborne
 Author URI: http://blog.burningpony.com
 

@@ -1,3 +1,15 @@
+____________THIS IS NO LONGER MAINTAINED ________________ 
+
+check out http://wordpress.org/extend/plugins/gravity-forms-pdf-extended/
+
+
+
+
+
+
+
+
+
 === Gravity Forms PDF ===
 Contributors: rposborne
 Tags: gravity forms, pdf, export
